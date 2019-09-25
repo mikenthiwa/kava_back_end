@@ -1,0 +1,10 @@
+#idea
+.idea/
+
+#env
+.env
+
+#nodemodules
+node_modules/
+
+
